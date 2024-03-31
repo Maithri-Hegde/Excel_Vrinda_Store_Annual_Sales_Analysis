@@ -6,4 +6,5 @@ Screenshot
 
 
 
-![Vrinda Store Annual Report](https://github.com/Maithri-Hegde/Excel_Vrinda_Store_Annual_Sales_Analysis/assets/81279183/01305e5a-3f43-4363-b50e-10b6620c8ae1)
+![Capture](https://github.com/Maithri-Hegde/Excel_Vrinda_Store_Annual_Sales_Analysis/assets/81279183/2a5bc0cc-de82-48fa-bb7b-bd03030d43b0)
+
